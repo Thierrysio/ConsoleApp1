@@ -8,6 +8,6 @@ namespace ConsoleApp1
 {
     internal class ttest
     {
-        int x = 0;testc
+        int x = 0;
     }
 }
